@@ -11,14 +11,25 @@
 
 ## 🛠️ Tecnologias utilizadas
 
-- **Delphi** (Embarcadero RAD Studio)
-- **ACBr**: biblioteca para integração com certificados digitais e assinaturas
-- **OpenSSL**: para suporte criptográfico (quando necessário)
+- **C#** (Microsoft Visual Studio)
+- **iTextSharp**: biblioteca para integração com certificados digitais e assinaturas
 - Outras bibliotecas auxiliares de PDF e manipulação de arquivos
 
-## 📦 Instalação
+## 👨‍⚖️ Público-alvo
 
-1. Clone o repositório:
+- Servidores da Justiça Eleitoral (TRE-MT)
+- Equipes de TI envolvidas com publicação de documentos oficiais
+- Desenvolvedores que desejam adaptar a solução para outros tribunais
 
-```bash
-git clone https://github.com/bublitz/AssinaDEJE.git
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests. Para mudanças maiores, por favor abra uma issue primeiro para discutir o que você gostaria de alterar.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a MIT License.
+
+## 📬 Contato
+
+Desenvolvido e mantido por @bublitz.
+Dúvidas, sugestões ou melhorias? Envie uma issue ou entre em contato via GitHub.
