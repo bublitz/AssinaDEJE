@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://portal.tre-mt.gov.br/ws_doe/tranf_doe.asmx?wsdl" filename="tranf_doe.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://portal.tre-mt.gov.br/ws_doe/tranf_doe.asmx?disco" filename="tranf_doe.disco" />
+  </Results>
+</DiscoveryClientResultsFile>
